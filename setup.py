@@ -35,7 +35,7 @@ setuptools.setup(
         "tensorboard-plugin-wit>=1.7.0",
         "tensorboard>=2.3.0",
         "tensorflow-estimator>=2.3.0",
-        "tensorflow==2.9.2",
+        "tensorflow==2.3.1",
         "tqdm==4.51.0",
     ],
 )
